@@ -28,7 +28,7 @@ private  string  name;
 
 private  int  id;
 
-public  Employee(string  name, string  id)
+public  Student(string  name, string  id)
 
 {
 this.name = name;
